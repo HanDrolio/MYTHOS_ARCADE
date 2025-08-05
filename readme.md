@@ -9,5 +9,7 @@ No installers. No bloat. Just pure mythic gameplay.
 
 1. Open the terminal
 2. Navigate to the folder:
-   ```bash
+   ```bash 
    cd ~/MYTHOS_ARCADE/
+3. bash launch.sh
+4. only need a few dependencies to make it work ez pip installs
